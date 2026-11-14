@@ -1,0 +1,1 @@
+Add genuine screenshots of the Week 8 Personal Mini-Toolkit here before submission. The two images supplied in chat show a different calculator exercise and are not valid evidence for this project. Required captures: menu_invalid.png, calculator.png, todo_list.png, todo_remove.png, guessing_game.png.

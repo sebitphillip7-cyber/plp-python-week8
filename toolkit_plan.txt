@@ -1,0 +1,46 @@
+PERSONAL MINI-TOOLKIT
+Week 8 Final Python Project
+
+1. TOOLS SELECTED
+
+TOOL 1: SIMPLE CALCULATOR
+The calculator allows users to perform addition, subtraction, multiplication and division on two numbers.
+Concepts: variables, input, float conversion, conditionals, mathematical operators, and f-strings.
+
+TOOL 2: TO-DO LIST MANAGER
+The to-do list allows users to add tasks, view all tasks, and remove tasks while the program is running.
+Concepts: lists, append(), pop(), for loops, while loops, conditionals, input, and f-strings.
+
+TOOL 3: NUMBER GUESSING GAME
+The guessing game asks the user to guess a secret number between 1 and 10 until the correct number is entered.
+Concepts: while loops, conditionals, variables, input validation, integer conversion, and f-strings.
+
+2. EXACT MAIN MENU TEXT
+
+====================================
+       PERSONAL MINI-TOOLKIT
+====================================
+
+Welcome to your Personal Mini-Toolkit!
+
+Please choose a tool:
+1. Simple Calculator
+2. To-Do List Manager
+3. Number Guessing Game
+4. Quit
+
+Enter your choice (1-4):
+
+3. PROGRAM FLOW
+- Display a welcome message.
+- Display the main menu.
+- Ask the user to select a tool.
+- Use if, elif and else to process the selection.
+- Run the selected tool.
+- Return to the main menu after a tool finishes.
+- Continue until the user selects Quit.
+- Display a friendly goodbye message.
+
+4. EXPECTED OUTCOME
+The program demonstrates variables, input/output, conditionals, loops, lists, and f-strings.
+Invalid menu choices and invalid numeric inputs are handled with friendly messages.
